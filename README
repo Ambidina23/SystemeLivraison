@@ -1,0 +1,8 @@
+echo "# ProjetLivraisonAJ" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Ambidina23/ProjetLivraisonAJ.git
+git push -u origin master
+
+La configuration de la base de donnée se fait dans le ficher 'env' de la racine
