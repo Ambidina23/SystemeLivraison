@@ -53,8 +53,9 @@ Installer du projet sur GIT
 4- git push -u origin master
 
 
+Si vous avez un projet déja existant
+git remote add origin https://github.com/Ambidina23/SystemeLivraison.git
 
-git remote add origin https://github.com/Ambidina23/ProjetLivraisonAJ.git
 git push -u origin master
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
