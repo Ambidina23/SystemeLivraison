@@ -1,7 +1,8 @@
 
 INSTALATION lARAVEL avac Composer
 Il y a plusieurs façons de créer une application Laravel. Celle qui me semble la plus simple consiste à utiliser la commande create-project de Composer:
-Pour gérer les dépendances, Laravel utilise le compositeur. Assurez-vous qu'un Composer est installé sur votre système avant d'installer Laravel. Dans ce chapitre, vous verrez le processus d'installation de Laravel. Vous devrez suivre les étapes ci-dessous pour installer Laravel sur votre système -
+Pour gérer les dépendances, Laravel utilise le compositeur. Assurez-vous qu'un Composer est installé sur votre système avant d'installer Laravel.
+Vous devrez suivre les étapes ci-dessous pour installer Laravel sur votre système -
 
 Étape 1 - Visitez l'URL suivante et téléchargez composer pour l'installer sur votre système.
 
