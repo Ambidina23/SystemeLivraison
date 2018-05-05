@@ -36,7 +36,7 @@ Etape 4-Une fois copié, allez dans votre dossier de destination et lancez l'in
 
 Etape 5-Exécuter la commande  "php artisan key: generate" pour generer une clé.
 
-6-Exécuter la commande "php artisan cache: clear"  à partir de la ligne de commande
+Etape 6-Exécuter la commande "php artisan cache: clear"  à partir de la ligne de commande
 
 
 Installer du projet sur GIT
