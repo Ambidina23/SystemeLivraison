@@ -37,14 +37,18 @@ Etape 5-Exécuter la clé artisan php: générer à par<r de la ligne de co
 6-Exécuter la commande ‘cache artisan php': effacer à partir de la ligne de commande
 
 
-Installer un projet GIT
+Installer du projet sur GIT
 
-echo "# ProjetLivraisonAJ" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Ambidina23/ProjetLivraisonAJ.git
-git push -u origin master
+
+1- git init
+
+2- git add README.md
+
+3- git commit -m "first commit"
+
+3- git remote add origin https://github.com/Ambidina23/SystemeLivraison.git
+
+4- git push -u origin master
 
 
 
