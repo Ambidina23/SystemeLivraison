@@ -34,9 +34,9 @@ Etape 3-Installez le composer https://getcomposer.org/doc/00-intro.md
 
 Etape 4-Une fois copié, allez dans votre dossier de destination et lancez l'installation de composer.
 
-Etape 5-Exécuter la clé artisan php: générer à par<r de la ligne de commande.
+Etape 5-Exécuter la commande  "php artisan key: generate" pour generer une clé.
 
-6-Exécuter la commande ‘cache artisan php': effacer à partir de la ligne de commande
+6-Exécuter la commande "php artisan cache: clear"  à partir de la ligne de commande
 
 
 Installer du projet sur GIT
