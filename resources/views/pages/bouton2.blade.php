@@ -1,0 +1,2 @@
+<label>Votre Adresse de départ a bien été prise en compte. Nous vous remerçions de l'interêt vous portez à ProLivraison</label>
+<li><a href="adresse_destination"> veuillez saisir votre adresse de destination</a></li>
