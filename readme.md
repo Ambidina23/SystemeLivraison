@@ -20,13 +20,15 @@ un nouveau répertoire n'importe où dans votre système pour votre nouveau proj
 Étape 6 - Taper  cette URL:"127.0.0.1:8000" dans le navigateur. Si vous voyez ld'accueil LARAVEL cela signifie que Laravel a été installé avec succès.
 
 Utlisation sous un autre plateforme
+
 laravel crée un fichier temporaire « Storage/logs/laravel.log » qui stock tous les activités dès
 la création de projet.
 manipulation afin d'éviter toute sorte de problème de references et de dependences
+
 Etape 1- Copier (telecharger) tous les fichiers du projet, y compris ceux qui sont cachés (.env).
 
 Etape 2-Vérifiez que vous disposez de toutes les extensions PHP nécessaires dans php.ini comme
-dans les condi<ons de lien ci-dessus. Aussi, regardez votre version de PHP!
+dans les conditions de lien ci-dessus. Aussi, regardez votre version de PHP!
 
 Etape 3-Installez le composer https://getcomposer.org/doc/00-intro.md
 
