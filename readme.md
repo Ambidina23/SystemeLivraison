@@ -31,10 +31,19 @@ dans les condi<ons de lien ci-dessus. Aussi, regardez votre version de PHP!
 5-Exécuter la clé artisan php: générer à par<r de la ligne de commande.
 6-Exécuter la commande ‘cache artisan php': effacer à partir de la ligne de commande
 
+Installer un projet GIT
+
+echo "# ProjetLivraisonAJ" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Ambidina23/ProjetLivraisonAJ.git
+git push -u origin master
 
 
 
-
+git remote add origin https://github.com/Ambidina23/ProjetLivraisonAJ.git
+git push -u origin master
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
