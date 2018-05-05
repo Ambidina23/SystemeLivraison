@@ -23,13 +23,19 @@ Utlisation sous un autre plateforme
 laravel crée un fichier temporaire « Storage/logs/laravel.log » qui stock tous les activités dès
 la création de projet.
 manipulation afin d'éviter toute sorte de problème de references et de dependences
-1- Copier (telecharger) tous les fichiers du projet, y compris ceux qui sont cachés (.env).
-2-Vérifiez que vous disposez de toutes les extensions PHP nécessaires dans php.ini comme
+Etape 1- Copier (telecharger) tous les fichiers du projet, y compris ceux qui sont cachés (.env).
+
+Etape 2-Vérifiez que vous disposez de toutes les extensions PHP nécessaires dans php.ini comme
 dans les condi<ons de lien ci-dessus. Aussi, regardez votre version de PHP!
-3-Installez le composer https://getcomposer.org/doc/00-intro.md
-4-Une fois copié, allez dans votre dossier de destination et lancez l'installation de composer.
-5-Exécuter la clé artisan php: générer à par<r de la ligne de commande.
+
+Etape 3-Installez le composer https://getcomposer.org/doc/00-intro.md
+
+Etape 4-Une fois copié, allez dans votre dossier de destination et lancez l'installation de composer.
+
+Etape 5-Exécuter la clé artisan php: générer à par<r de la ligne de commande.
+
 6-Exécuter la commande ‘cache artisan php': effacer à partir de la ligne de commande
+
 
 Installer un projet GIT
 
